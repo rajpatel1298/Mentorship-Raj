@@ -1,2 +1,2 @@
 # Mentorship-Raj
-Repository for mentorship project
+Repository for mentorship projects
